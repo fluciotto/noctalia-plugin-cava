@@ -1,0 +1,31 @@
+{
+  "id": "cava",
+  "name": "Cava",
+  "version": "1.0.0",
+  "minNoctaliaVersion": "4.6.6",
+  "author": "fluciotto",
+  "license": "MIT",
+  "repository": "https://github.com/fluciotto/noctalia-plugin-cava",
+  "description": "Noctalia bar Cava plugin",
+  "entryPoints": {
+    "main": "Main.qml",
+    "barWidget": "BarWidget.qml",
+    "settings": "Settings.qml"
+  },
+  "dependencies": {
+    "plugins": []
+  },
+  "metadata": {
+    "defaultSettings": {
+      "barWidth": 2,
+      "cavaChannels": "mono",
+      "cavaAutosens": 10,
+      "cavaSensitivity": 100,
+      "cavaFramerate": 30,
+      "cavaBars": 16,
+      "cavaLowerCutoffFreq": 20,
+      "cavaHigherCutoffFreq": 20000,
+      "cavaNoiseReduction": 15
+    }
+  }
+}

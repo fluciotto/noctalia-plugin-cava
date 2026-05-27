@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "settings": "Settings"
+  },
+  "settings": {
+    "autosens": "Automatic sensitivity",
+    "autosens_desc": "Set automatic sensitivity level (0: disabled)",
+    "bars": "Bars",
+    "bars_desc": "Set bars count",
+    "barwidth": "Bar width",
+    "barwidth_desc": "Set bar width",
+    "channels": "Channels",
+    "channels_desc": "Set channels",
+    "framerate": "Framerate",
+    "framerate_desc": "Set framerate (frames per second)",
+    "higherCutoffFrequency": "Higher cutoff frequency",
+    "higherCutoffFrequency_desc": "Set upper cutoff frequency (Hz)",
+    "lowerCutoffFrequency": "Lower cutoff frequency",
+    "lowerCutoffFrequency_desc": "Set lower cutoff frequency (Hz)",
+    "noiseReduction": "Noise reduction",
+    "noiseReduction_desc": "Set noise reduction level",
+    "sensitivity": "Sensitivity",
+    "sensitivity_desc": "Set sensitivity"
+  }
+}

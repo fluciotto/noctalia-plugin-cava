@@ -1,0 +1,25 @@
+{
+  "menu": {
+    "settings": "Paramètres"
+  },
+  "settings": {
+    "autosens": "Sensibilité automatique",
+    "autosens_desc": "Définir le niveau de sensibilité automatique (0 : désactivé)",
+    "bars": "Barres",
+    "bars_desc": "Définir le nombre de barres",
+    "barwidth": "Largeur de barre",
+    "barwidth_desc": "Définir la largeur de barre",
+    "channels": "Canaux",
+    "channels_desc": "Définir les canaux",
+    "framerate": "Taux de rafraîchissement",
+    "framerate_desc": "Définir le taux de rafraîchissement (images par seconde)",
+    "higherCutoffFrequency": "Fréquence de coupure haute",
+    "higherCutoffFrequency_desc": "Définir la fréquence de coupure haute (Hz)",
+    "lowerCutoffFrequency": "Fréquence de coupure basse",
+    "lowerCutoffFrequency_desc": "Définir la fréquence de coupure basse (Hz)",
+    "noiseReduction": "Réduction de bruit",
+    "noiseReduction_desc": "Définir le niveau de réduction de bruit",
+    "sensitivity": "Sensibilité",
+    "sensitivity_desc": "Définir la sensibilité"
+  }
+}
